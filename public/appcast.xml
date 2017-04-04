@@ -15,5 +15,20 @@
         <pubDate>Tue, 04 Apr 2017 16:30:00 +0000</pubDate>
         <enclosure url="https://github.com/blockstack/blockstack-portal/releases/download/v0.6.0/Blockstack-v0.6.0.dmg" sparkle:shortVersionString="0.6.0" sparkle:version="28" length="42898615" type="application/octet-stream"/>
       </item>
+      <item>
+        <title>Blockstack v0.6.1</title>
+        <description>
+          <![CDATA[
+            <p>This release features a beautiful new Wallet app, improvements to the registration process and automatic updates on macOS.</p>
+            <p>This release also includes the following improvements:</p>
+            <ul>
+              <li>Adds storage menu item and fixes wallet menu item in macOS app #385</li>
+              <li>Fixes a problem displaying the wallet address #386</li>
+            </ul>
+          ]]>
+        </description>
+        <pubDate>Tue, 04 Apr 2017 17:40:00 +0000</pubDate>
+        <enclosure url="https://github.com/blockstack/blockstack-portal/releases/download/v0.6.1/Blockstack-v0.6.1.dmg" sparkle:shortVersionString="0.6.1" sparkle:version="29" length="42898442" type="application/octet-stream"/>
+      </item>
   </channel>
 </rss>
