@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "public": "public",
+    "redirects": [
+        {
+          "source": "/",
+          "destination": "https://blockstack.org",
+          "type": 301
+        }]
+  }
+}

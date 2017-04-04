@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Blockstack for macOS Changelog</title>
+    <link>http://sparkle-project.org/files/sparkletestcast.xml</link>
+    <description>Most recent changes with links to updates.</description>
+    <language>en</language>
+      <item>
+        <title>Blockstack v0.6.0</title>
+        <description>
+          <![CDATA[
+            <p>This release features a beautiful new Wallet app, improvements to the registration process and automatic updates on macOS.</p>
+          ]]>
+        </description>
+        <pubDate>Tue, 04 Apr 2017 16:30:00 +0000</pubDate>
+        <enclosure url="https://github.com/blockstack/blockstack-portal/releases/download/v0.6.0/Blockstack-v0.6.0.dmg" sparkle:shortVersionString="0.6.0" sparkle:version="28" length="42898615" type="application/octet-stream"/>
+      </item>
+  </channel>
+</rss>
