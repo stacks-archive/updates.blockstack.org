@@ -77,5 +77,22 @@
         <pubDate>Mon, 08 May 2017 15:45:00 +0000</pubDate>
         <enclosure url="https://github.com/blockstack/blockstack-portal/releases/download/v0.8.1/Blockstack-v0.8.1.dmg" sparkle:shortVersionString="0.8.1" sparkle:version="36" length="41894085" type="application/octet-stream"/>
       </item>
+      <item>
+        <title>Blockstack v0.9.0</title>
+        <description>
+          <![CDATA[
+            <p>Announcing our first developer release! This release features:</p>
+            <ul>
+              <li>an entirely new on-boarding flow</li>
+              <li>a new name registration process that allows you to create & sign in with profiles before buying a username</li>
+              <li>an improved authentication process that returns Blockstack Core session tokens which will allow your app to access user storage in an upcoming release</li>
+              <li>ability to use major functions without connecting a storage provider</li>
+              <li>new & improved status bar</li>
+            </ul>
+          ]]>
+        </description>
+        <pubDate>Tues, 23 May 2017 01:30:00 +0000</pubDate>
+        <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.9.0/Blockstack-v0.9.0.dmg" sparkle:shortVersionString="0.9.0" sparkle:version="39" length="42145272" type="application/octet-stream"/>
+      </item>
   </channel>
 </rss>
