@@ -91,8 +91,21 @@
             </ul>
           ]]>
         </description>
-        <pubDate>Tues, 23 May 2017 01:30:00 +0000</pubDate>
+        <pubDate>Tue, 23 May 2017 01:30:00 +0000</pubDate>
         <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.9.0/Blockstack-v0.9.0.dmg" sparkle:shortVersionString="0.9.0" sparkle:version="39" length="42145272" type="application/octet-stream"/>
+      </item>
+      <item>
+        <title>Blockstack v0.9.1</title>
+        <description>
+          <![CDATA[
+            <p>This developer release features:</p>
+            <ul>
+              <li>improvements to the registrar</li>
+            </ul>
+          ]]>
+        </description>
+        <pubDate>Thu, 02 Jun 2017 02:30:00 +0000</pubDate>
+        <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.9.1/Blockstack-v0.9.1.dmg" sparkle:shortVersionString="0.9.1" sparkle:version="40" length="41677046" type="application/octet-stream"/>
       </item>
   </channel>
 </rss>
