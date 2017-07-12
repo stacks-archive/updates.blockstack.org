@@ -120,8 +120,20 @@
           <p><em>Please note: Names created on earlier versions may no longer appear in your Profiles app. Don't worry! The names are still there and will re-appear once migrated with an upcoming migration tool. Make sure to save your backup phrase.</em></p>
           ]]>
         </description>
-        <pubDate>Fri, 23 Jun 2017 18:30:00 +0000</pubDate>
+        <pubDate>Fri, 23 Jun 2017 15:15:00 +0000</pubDate>
         <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.10.0/Blockstack-v0.10.0.dmg" sparkle:shortVersionString="0.10.0" sparkle:version="43" length="42868198" type="application/octet-stream"/>
+      </item>
+      <item>
+        <title>Blockstack v0.11.0</title>
+        <description>
+          <![CDATA[
+          <p>This developer release features improvements to name registration speed and cost, support for apps that use storage, and numerous other fixes.</p>
+
+          <p><em>Please note that since this is a pre-release, you should reset your browser's local storage before running a new version. Also, names purchased in a pre-release version may disappear between pre-release versions as we optimize our keychain format. They may need to be transferred to the production keychain location with a future tool.</em></p>
+          ]]>
+        </description>
+        <pubDate>Wed, 12 July 2017 18:30:00 +0000</pubDate>
+        <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.11.0/Blockstack-v0.11.0.dmg" sparkle:shortVersionString="0.11.0" sparkle:version="47" length="42842182" type="application/octet-stream"/>
       </item>
   </channel>
 </rss>
