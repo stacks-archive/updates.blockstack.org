@@ -171,5 +171,17 @@
         <pubDate>Thu, 27 July 2017 16:45:00 +0000</pubDate>
         <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.12.0/Blockstack-v0.12.0.dmg" sparkle:shortVersionString="0.12.0" sparkle:version="50" length="56653155" type="application/octet-stream"/>
       </item>
+      <item>
+        <title>Blockstack v0.13.0</title>
+        <description>
+          <![CDATA[
+          <p>This developer release includes design improvements and a new status bar.</p>
+
+          <p><em>Please note that since this is a pre-release, you should reset your browser's local storage before running a new version. Also, names purchased in a pre-release version may disappear between pre-release versions as we optimize our keychain format. They may need to be transferred to the production keychain location with a future tool.</em></p>
+          ]]>
+        </description>
+        <pubDate>Thu, 10 August 2017 07:30:00 +0000</pubDate>
+        <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.13.0/Blockstack-v0.13.0.dmg" sparkle:shortVersionString="0.13.0" sparkle:version="51" length="57253764" type="application/octet-stream"/>
+      </item>
   </channel>
 </rss>
