@@ -175,13 +175,32 @@
         <title>Blockstack v0.13.0</title>
         <description>
           <![CDATA[
-          <p>This developer release includes design improvements and a new status bar.</p>
+          <p>This developer release includes the following improvements:</p>
 
           <p><em>Please note that since this is a pre-release, you should reset your browser's local storage before running a new version. Also, names purchased in a pre-release version may disappear between pre-release versions as we optimize our keychain format. They may need to be transferred to the production keychain location with a future tool.</em></p>
           ]]>
         </description>
         <pubDate>Thu, 10 August 2017 07:30:00 +0000</pubDate>
         <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.13.0/Blockstack-v0.13.0.dmg" sparkle:shortVersionString="0.13.0" sparkle:version="51" length="57253764" type="application/octet-stream"/>
+      </item>
+      <item>
+        <title>Blockstack v0.14.0</title>
+        <description>
+          <![CDATA[
+          <p>This developer release includes design improvements and a new status bar.</p>
+          <ul>
+            <li>Option to automatically start Blockstack on macOS</li>
+            <li>Option to select the default profile used for sign in with Blockstack</li>
+            <li>Ability to select which profile is used for sign in to Blockstack apps at sign in time</li>
+            <li>Advanced feature which allows manual update of a name's zone file</li>
+            <li>Name registration process improvements</li>
+            <li>Numerous bug fixes</li>
+          </ul>
+          <p><em>Please note that since this is a pre-release, you should reset your browser's local storage before running a new version. Also, names purchased in a pre-release version may disappear between pre-release versions as we optimize our keychain format. They may need to be transferred to the production keychain location with a future tool.</em></p>
+          ]]>
+        </description>
+        <pubDate>Thu, 24 August 2017 15:00:00 +0000</pubDate>
+        <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.14.0/Blockstack-v0.14.0.dmg" sparkle:shortVersionString="0.14.0" sparkle:version="52" length="59686372" type="application/octet-stream"/>
       </item>
   </channel>
 </rss>
