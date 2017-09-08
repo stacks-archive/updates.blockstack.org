@@ -202,5 +202,16 @@
         <pubDate>Thu, 24 August 2017 15:00:00 +0000</pubDate>
         <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.14.0/Blockstack-v0.14.0.dmg" sparkle:shortVersionString="0.14.0" sparkle:version="52" length="59686372" type="application/octet-stream"/>
       </item>
+      <item>
+        <title>Blockstack v0.15.0</title>
+        <description>
+          <![CDATA[
+          <p>This developer release includes the ability to transfer your name to another wallet, improvements to the account restoration process and other improvements!</p>
+          <p><em>Please note that since this is a pre-release, you may need to restore your account for proper behavior. Also, names purchased in an earlier pre-release version may disappear between pre-release versions as we optimize our keychain format. They may need to be transferred to the production keychain location with a future tool.</em></p>
+          ]]>
+        </description>
+        <pubDate>Fri, 8 September 2017 05:00:00 +0000</pubDate>
+        <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.15.0/Blockstack-v0.15.0.dmg" sparkle:shortVersionString="0.15.0" sparkle:version="53" length="59705555" type="application/octet-stream"/>
+      </item>
   </channel>
 </rss>
