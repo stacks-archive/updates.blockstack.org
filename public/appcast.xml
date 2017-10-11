@@ -224,5 +224,30 @@
         <pubDate>Fri, 22 September 2017 12:00:00 +0000</pubDate>
         <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.16.0/Blockstack-for-macOS-v0.16.0.dmg" sparkle:shortVersionString="0.16.0" sparkle:version="54" length="61718005" type="application/octet-stream"/>
       </item>
+      <item>
+        <title>Blockstack v0.17.1</title>
+        <description>
+          <![CDATA[
+          <p>This developer release features:</p>
+          <ul>
+          <li>a new address-based social proof verifications system</li>
+          <li>a new bitcoin wallet that is derived from your identity key</li>
+          <li>a new username registration process that is both faster and cheaper</li>
+          <li>an improved sign in process</li>
+          </ul>
+
+          <p><strong>Known issues</strong></p>
+          <p>These will be fixed in an upcoming release:</p>
+          <ul>
+          <li>You will need to restore your account after upgrading to this version for proper behavior.</li>
+          <li>Your Blockstack ID information will not be saved unless you have a username. If you edit your Blockstack ID before adding a username, adding a username will cause it to disappear.</li>
+          <li>After adding a username, the name may take a while to display or indicate it is ready to use when in fact it is not.</li>
+          </ul>
+          <p><em>Names purchased in a pre-release version prior to v0.10.0 will need to be transferred to the production keychain location with a future tool.</p></em>
+          ]]>
+        </description>
+        <pubDate>Wed, 11 October 2017 12:00:00 +0000</pubDate>
+        <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.17.1/Blockstack-for-macOS-v0.17.1.dmg" sparkle:shortVersionString="0.17.1" sparkle:version="57" length="62648288" type="application/octet-stream"/>
+      </item>
   </channel>
 </rss>
