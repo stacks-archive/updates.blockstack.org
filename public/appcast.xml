@@ -249,5 +249,27 @@
         <pubDate>Wed, 11 October 2017 12:00:00 +0000</pubDate>
         <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.17.1/Blockstack-for-macOS-v0.17.1.dmg" sparkle:shortVersionString="0.17.1" sparkle:version="57" length="62648288" type="application/octet-stream"/>
       </item>
+      <item>
+        <title>Blockstack v0.18.1</title>
+        <description>
+          <![CDATA[
+          <p>This developer release features:</p>
+          <ul>
+          <li>Improvements to the verifications process</li>
+          <li>Improved support for Blockstack IDs without a username</li>
+          <li>Improved display of usernames that are pending registration confirmation</li>
+          </ul>
+
+          <p><strong>Known issues</strong></p>
+          <p>These will be fixed in an upcoming release:</p>
+          <ul>
+          <li>Dropbox support is temporarily disabled in this release. It will be re-enabled in a future release.</li>
+          </ul>
+          <p><em>Names purchased in a pre-release version prior to v0.10.0 will need to be transferred to the production keychain location with a future tool.</p></em>
+          ]]>
+        </description>
+        <pubDate>Wed, 18 October 2017 22:00:00 +0000</pubDate>
+        <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.18.1/Blockstack-for-macOS-v0.18.1.dmg" sparkle:shortVersionString="0.18.1" sparkle:version="59" length="63348926" type="application/octet-stream"/>
+      </item>
   </channel>
 </rss>
