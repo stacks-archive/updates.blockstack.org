@@ -5,6 +5,27 @@
     <link>https://updates.blockstack.org/macappcast.xml</link>
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
+    <item>
+      <title>Blockstack v0.18.3</title>
+      <description>
+        <![CDATA[
+        <p>This developer release features:</p>
+        <ul>
+        <li>Streamlined transfer process from Onename</li>
+        <li>Navigation improvements</li>
+        <li>Security improvements</li>
+        </ul>
 
+        <p><strong>Known issues</strong></p>
+        <p>These will be fixed in an upcoming release:</p>
+        <ul>
+        <li>Dropbox support is temporarily disabled in this release. It will be re-enabled in a future release.</li>
+        </ul>
+        <p><em>Names purchased in a pre-release version prior to v0.10.0 will need to be transferred to the production keychain location with a future tool.</p></em>
+        ]]>
+      </description>
+      <pubDate>Tue, 24 October 2017 20:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.18.3/Blockstack-for-macOS-v0.18.3.dmg" sparkle:shortVersionString="0.18.3" sparkle:version="61" length="63342699" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
