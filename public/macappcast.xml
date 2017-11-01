@@ -48,5 +48,27 @@
       <pubDate>Thu, 26 October 2017 13:00:00 +0000</pubDate>
       <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.19.0/Blockstack-for-macOS-v0.19.0.dmg" sparkle:shortVersionString="0.19.0" sparkle:version="62" length="63347900" type="application/octet-stream"/>
     </item>
+    <item>
+      <title>Blockstack v0.20.0</title>
+      <description>
+        <![CDATA[
+        <p>This public alpha features:</p>
+        <ul>
+        <li>Improved sign in process</li>
+        <li>Improved language if a user tries to sign in to an app before completing on-boarding</li>
+        <li>Bug fixes</li>
+        </ul>
+
+        <p><strong>Known issues</strong></p>
+        <p>These will be fixed in an upcoming release:</p>
+        <ul>
+        <li>Dropbox support is temporarily disabled in this release. It will be re-enabled in a future release.</li>
+        </ul>
+        <p><em>Names purchased in a pre-release version prior to v0.10.0 will need to be transferred to the production keychain location with a future tool.</p></em>
+        ]]>
+      </description>
+      <pubDate>Wed, 1 November 2017 16:45:00 +0000</pubDate>
+      <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.20.0/Blockstack-for-macOS-v0.20.0.dmg" sparkle:shortVersionString="0.20.0" sparkle:version="70" length="63368983" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
