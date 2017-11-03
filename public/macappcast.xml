@@ -70,5 +70,28 @@
       <pubDate>Wed, 1 November 2017 16:45:00 +0000</pubDate>
       <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.20.0/Blockstack-for-macOS-v0.20.0.dmg" sparkle:shortVersionString="0.20.0" sparkle:version="70" length="63368983" type="application/octet-stream"/>
     </item>
+    <item>
+      <title>Blockstack v0.20.1</title>
+      <description>
+        <![CDATA[
+        <p>This public alpha features:</p>
+        <ul>
+        <li>Restoring a keychain will also restore Blockstack ID profile information for IDs that don't have usernames as long as you are using default storage</li>
+        <li>Improved navigation</li>
+        <li>Improvements to social media account verification process</li>
+        <li>Bug fixes</li>
+        </ul>
+
+        <p><strong>Known issues</strong></p>
+        <p>These will be fixed in an upcoming release:</p>
+        <ul>
+        <li>Dropbox support is temporarily disabled in this release. It will be re-enabled in a future release.</li>
+        </ul>
+        <p><em>Names purchased in a pre-release version prior to v0.10.0 will need to be transferred to the production keychain location with a future tool.</p></em>
+        ]]>
+      </description>
+      <pubDate>Wed, 3 November 2017 09:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.20.1/Blockstack-for-macOS-v0.20.1.dmg" sparkle:shortVersionString="0.20.1" sparkle:version="71" length="63371190" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
