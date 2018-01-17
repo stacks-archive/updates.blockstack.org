@@ -173,7 +173,22 @@
         ]]>
       </description>
       <pubDate>Wed, 20 December 2017 10:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.21.5/Blockstack-for-macOS-v0.21.5.dmg" sparkle:shortVersionString="0.21.5" sparkle:version="80" length="64227382" type="application/octet-stream"/>
+      <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.21.5/Blockstack-for-macOS-v0.21.5.dmg" sparkle:shortVersionString="0.21.5" sparkle:version="80" length="63983130" type="application/octet-stream"/>
+    </item>
+    <item>
+      <title>Blockstack v0.21.6</title>
+      <description>
+        <![CDATA[
+        <p>This public alpha features:</p>
+        <ul>
+        <li>Enables support for authentication with apps that use the new direct to gaia hub storage system on Windows. Windows users will now be able to use new gaia apps!</li>
+        <li>Fixes for the invalid hex string error that periodically occurred.</li>
+        </ul>
+        <p><em>Names purchased in a pre-release version prior to v0.10.0 will need to be transferred to the production keychain location with a future tool.</p></em>
+        ]]>
+      </description>
+      <pubDate>Wed, 27 December 2017 10:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.21.6/Blockstack-for-macOS-v0.21.6.dmg" sparkle:shortVersionString="0.21.6" sparkle:version="81" length="65902176" type="application/octet-stream"/>
     </item>
     <item>
       <title>Blockstack v0.22.1</title>
