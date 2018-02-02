@@ -211,5 +211,22 @@
       <pubDate>Wed, 17 January 2018 18:00:00 +0000</pubDate>
       <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.22.1/Blockstack-for-macOS-v0.22.1.dmg" sparkle:shortVersionString="0.22.1" sparkle:version="82" length="64227382" type="application/octet-stream"/>
     </item>
+    <item>
+      <title>Blockstack v0.23.0</title>
+      <description>
+        <![CDATA[
+        <p>This public alpha features:</p>
+        <ul>
+          <li>Fixes for a Blockstack ID address generation bug</li>
+          <li>Fixes for an authentication bug that occurred in some apps using multi-player storage</li>
+          <li>Increased test coverage</li>
+          <li>Improved storage code</li>
+        </ul>
+        <p><em>Names purchased in a pre-release version prior to v0.10.0 will need to be transferred to the production keychain location with a future tool.</p></em>
+        ]]>
+      </description>
+      <pubDate>Thu, 1 January 2018 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.23.0/Blockstack-for-macOS-v0.23.0.dmg" sparkle:shortVersionString="0.23.0" sparkle:version="85" length="65697427" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
