@@ -228,5 +228,20 @@
       <pubDate>Thu, 1 January 2018 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.23.0/Blockstack-for-macOS-v0.23.0.dmg" sparkle:shortVersionString="0.23.0" sparkle:version="85" length="65697427" type="application/octet-stream"/>
     </item>
+    <item>
+      <title>Blockstack v0.25.0</title>
+      <description>
+        <![CDATA[
+        <p>This public alpha features:</p>
+        <ul>
+          <li>Blockstack Core v0.18</li>
+          <li>Support for Blockstack IDs with subdomains</li>
+        </ul>
+        <p><em>Names purchased in a pre-release version prior to v0.10.0 will need to be transferred to the production keychain location with a future tool.</p></em>
+        ]]>
+      </description>
+      <pubDate>Thu, 1 March 2018 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.25.0/Blockstack-for-macOS-v0.25.0.dmg" sparkle:shortVersionString="0.25.0" sparkle:version="87" length="65906274" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
