@@ -304,5 +304,22 @@
       <pubDate>Wed, 18 April 2018 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.28.0/Blockstack-for-macOS-v0.28.0.dmg" sparkle:shortVersionString="0.28.0" sparkle:version="90" length="50500000" type="application/octet-stream"/>
     </item>
+    <item>
+      <title>Blockstack v0.29.1</title>
+      <description>
+        <![CDATA[
+        <p>This public alpha features:</p>
+        <ul>
+          <li>New and improved onboarding process</li>
+          <li>Ability to register free sponsored names during onboarding</li>
+          <li>New apps</li>
+          <li>Bug fixes</li>
+        </ul>
+        <p><em>Names purchased in a pre-release version prior to v0.10.0 will need to be transferred to the production keychain location with a future tool.</p></em>
+        ]]>
+      </description>
+      <pubDate>Fri, 1 June 2018 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.29.1/Blockstack-for-macOS-v0.29.1.dmg" sparkle:shortVersionString="0.28.0" sparkle:version="90" length="50500000" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
