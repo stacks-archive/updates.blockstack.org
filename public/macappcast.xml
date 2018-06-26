@@ -321,5 +321,20 @@
       <pubDate>Fri, 1 June 2018 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.29.1/Blockstack-for-macOS-v0.29.1.dmg" sparkle:shortVersionString="0.29.1" sparkle:version="96" length="53238760" type="application/octet-stream"/>
     </item>
+    <item>
+      <title>Blockstack v0.29.2</title>
+      <description>
+        <![CDATA[
+        <p>This public alpha features:</p>
+        <ul>
+          <li>New app (Misthos)</li>
+          <li>Fixes critical auth bug for users with badly configured zone files</li>
+        </ul>
+        <p><em>Names purchased in a pre-release version prior to v0.10.0 will need to be transferred to the production keychain location with a future tool.</p></em>
+        ]]>
+      </description>
+      <pubDate>Mon, 25 June 2018 23:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.29.2/Blockstack-for-macOS-v0.29.2.dmg" sparkle:shortVersionString="0.29.2" sparkle:version="97" length="53238760" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
