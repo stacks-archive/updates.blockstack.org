@@ -336,5 +336,22 @@
       <pubDate>Mon, 25 June 2018 23:00:00 +0000</pubDate>
       <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.29.2/Blockstack-for-macOS-v0.29.2.dmg" sparkle:shortVersionString="0.29.2" sparkle:version="97" length="53238760" type="application/octet-stream"/>
     </item>
+    <item>
+      <title>Blockstack v0.29.3</title>
+      <description>
+        <![CDATA[
+        <p>This public alpha features:</p>
+        <ul>
+          <li>Fixed a bug where social verifications show as unverified</li>
+          <li>Fixed issues with missing usernames after restoring an ID</li>
+          <li>Fixed email scope not returning anything after restoring an ID</li>
+          <li>Onboarding flow improvements</li>
+        </ul>
+        <p><em>Names purchased in a pre-release version prior to v0.10.0 will need to be transferred to the production keychain location with a future tool.</p></em>
+        ]]>
+      </description>
+      <pubDate>Fri, 29 June 2018 01:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.29.3/Blockstack-for-macOS-v0.29.3.dmg" sparkle:shortVersionString="0.29.3" sparkle:version="98" length="53238760" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
