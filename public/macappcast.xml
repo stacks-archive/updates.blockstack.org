@@ -353,5 +353,19 @@
       <pubDate>Fri, 29 June 2018 01:00:00 +0000</pubDate>
       <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.29.3/Blockstack-for-macOS-v0.29.3.dmg" sparkle:shortVersionString="0.29.3" sparkle:version="98" length="53238760" type="application/octet-stream"/>
     </item>
+    <item>
+      <title>Blockstack v0.30.0</title>
+      <description>
+        <![CDATA[
+        <p>This public alpha features:</p>
+        <ul>
+          <li>Ability to register sponsored usernames after sign up</li>
+          <li>Bug fixes</li>
+        </ul>
+        ]]>
+      </description>
+      <pubDate>Tue, 17 July 2018 14:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.30.0/Blockstack-for-macOS-v0.30.0.dmg" sparkle:shortVersionString="0.30.0" sparkle:version="99" length="53238760" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
