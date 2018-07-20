@@ -367,5 +367,18 @@
       <pubDate>Tue, 17 July 2018 14:00:00 +0000</pubDate>
       <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.30.0/Blockstack-for-macOS-v0.30.0.dmg" sparkle:shortVersionString="0.30.0" sparkle:version="99" length="53238760" type="application/octet-stream"/>
     </item>
+    <item>
+        <title>Blockstack v0.30.1</title>
+        <description>
+            <![CDATA[
+                <p>This public alpha features:</p>
+                <ul>
+                <li>Added an 8 character minimum length requirement for sponsored usernames</li>
+                </ul>
+            ]]>
+        </description>
+        <pubDate>Fri, 20 July 2018 12:00:00 +0000</pubDate>
+        <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.30.1/Blockstack-for-macOS-v0.30.1.dmg" sparkle:shortVersionString="0.30.1" sparkle:version="100" length="53238760" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
