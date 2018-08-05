@@ -380,5 +380,20 @@
         <pubDate>Fri, 20 July 2018 12:00:00 +0000</pubDate>
         <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.30.1/Blockstack-for-macOS-v0.30.1.dmg" sparkle:shortVersionString="0.30.1" sparkle:version="100" length="53238760" type="application/octet-stream"/>
     </item>
+    <item>
+        <title>Blockstack v0.31.0</title>
+        <description>
+            <![CDATA[
+                <p>This public alpha features:</p>
+                <ul>
+                  <li>Onboarding user experience improvements</li>
+                  <li>Fixes a bug where profile information is wiped after purchasing a username</li>
+                  <li>Anonymous analytics (opt-out in settings menu)</li>
+                </ul>
+            ]]>
+        </description>
+        <pubDate>Fri, 3 August 2018 12:00:00 +0000</pubDate>
+        <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.31.0/Blockstack-for-macOS-v0.31.0.dmg" sparkle:shortVersionString="0.31.0" sparkle:version="101" length="53238760" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
