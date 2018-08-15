@@ -395,5 +395,15 @@
         <pubDate>Fri, 3 August 2018 12:00:00 +0000</pubDate>
         <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.31.0/Blockstack-for-macOS-v0.31.0.dmg" sparkle:shortVersionString="0.31.0" sparkle:version="101" length="53238760" type="application/octet-stream"/>
     </item>
+    <item>
+        <title>Blockstack v0.31.1</title>
+        <description>
+            <![CDATA[
+                <p>This release fixes a bug where authenticating using older Blockstack IDs can result in an empty or incorrect profile.json being returned to the app.</p>
+            ]]>
+        </description>
+        <pubDate>Wed, 15 August 2018 12:00:00 +0000</pubDate>
+        <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.31.1/Blockstack-for-macOS-v0.31.1.dmg" sparkle:shortVersionString="0.31.1" sparkle:version="102" length="53238760" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
