@@ -405,5 +405,20 @@
         <pubDate>Wed, 15 August 2018 12:00:00 +0000</pubDate>
         <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.31.1/Blockstack-for-macOS-v0.31.1.dmg" sparkle:shortVersionString="0.31.1" sparkle:version="102" length="53238760" type="application/octet-stream"/>
     </item>
+    <item>
+        <title>Blockstack v0.31.0</title>
+        <description>
+            <![CDATA[
+                <p>This release features:</p>
+                <ul>
+                  <li>Fix for a social proof verification bug that affects some usernames</li>
+                  <li>Performance improvements</li>
+                  <li>User experience improvements</li>
+                </ul>
+            ]]>
+        </description>
+        <pubDate>Mon, 20 August 2018 12:00:00 +0000</pubDate>
+        <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.32.0/Blockstack-for-macOS-v0.32.dmg" sparkle:shortVersionString="0.32.0" sparkle:version="103" length="53238760" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
