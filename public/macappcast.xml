@@ -406,7 +406,7 @@
         <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.31.1/Blockstack-for-macOS-v0.31.1.dmg" sparkle:shortVersionString="0.31.1" sparkle:version="102" length="53238760" type="application/octet-stream"/>
     </item>
     <item>
-        <title>Blockstack v0.31.0</title>
+        <title>Blockstack v0.32.0</title>
         <description>
             <![CDATA[
                 <p>This release features:</p>
@@ -419,6 +419,20 @@
         </description>
         <pubDate>Mon, 20 August 2018 12:00:00 +0000</pubDate>
         <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.32.0/Blockstack-for-macOS-v0.32.dmg" sparkle:shortVersionString="0.32.0" sparkle:version="103" length="53238760" type="application/octet-stream"/>
+    </item>
+    <item>
+        <title>Blockstack v0.32.2</title>
+        <description>
+            <![CDATA[
+                <p>This release features:</p>
+                <ul>
+                  <li>Fixed issue with app icons not displaying in Firefox and Safari</li>
+                  <li>PFixed potential broken app state during onboarding</li>
+                </ul>
+            ]]>
+        </description>
+        <pubDate>Wed, 22 August 2018 12:00:00 +0000</pubDate>
+        <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.32.2/Blockstack-for-macOS-v0.32.2.dmg" sparkle:shortVersionString="0.32.2" sparkle:version="105" length="89685182" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
