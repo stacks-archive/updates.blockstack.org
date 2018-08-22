@@ -427,7 +427,7 @@
                 <p>This release features:</p>
                 <ul>
                   <li>Fixed issue with app icons not displaying in Firefox and Safari</li>
-                  <li>PFixed potential broken app state during onboarding</li>
+                  <li>Fixed potential broken app state during onboarding</li>
                 </ul>
             ]]>
         </description>
