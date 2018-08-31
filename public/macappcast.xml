@@ -434,5 +434,22 @@
         <pubDate>Wed, 22 August 2018 12:00:00 +0000</pubDate>
         <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.32.2/Blockstack-for-macOS-v0.32.2.dmg" sparkle:shortVersionString="0.32.2" sparkle:version="105" length="89685182" type="application/octet-stream"/>
     </item>
+    <item>
+        <title>Blockstack v0.33.0</title>
+        <description>
+            <![CDATA[
+                <p>This release features:</p>
+                <ul>
+                  <li>More tolerant input for recovery codes</li>
+                  <li>Profile UI enhancements</li>
+                  <li>Fixed bug with profile photo upload</li>
+                  <li>Improved error handling during onboarding</li>
+                  <li>Added confirmation screens for wallet actions</li>
+                </ul>
+            ]]>
+        </description>
+        <pubDate>Fri, 31 August 2018 12:00:00 +0000</pubDate>
+        <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.33.0/Blockstack-for-macOS-v0.33.0.dmg" sparkle:shortVersionString="0.33.0" sparkle:version="106" length="99551443" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
