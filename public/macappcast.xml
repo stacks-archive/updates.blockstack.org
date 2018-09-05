@@ -451,5 +451,20 @@
         <pubDate>Fri, 31 August 2018 12:00:00 +0000</pubDate>
         <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.33.0/Blockstack-for-macOS-v0.33.0.dmg" sparkle:shortVersionString="0.33.0" sparkle:version="106" length="99551443" type="application/octet-stream"/>
     </item>
+    <item>
+        <title>Blockstack v0.33.2</title>
+        <description>
+            <![CDATA[
+                <p>Bug fixes:</p>
+                <ul>
+                  <li>Fixed wallet showing 0 balance</li>
+                  <li>Fixed build process bug which increased the bundle size</li>
+                  <li>Fixed minor UI issue in onboarding views that affected some mobile screen sizes</li>
+                </ul>
+            ]]>
+        </description>
+        <pubDate>Wed, 5 September 2018 12:00:00 +0000</pubDate>
+        <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.33.2/Blockstack-for-macOS-v0.33.2.dmg" sparkle:shortVersionString="0.33.2" sparkle:version="108" length="37277827" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
