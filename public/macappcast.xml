@@ -480,5 +480,19 @@
         <pubDate>Fri, 28 September 2018 12:00:00 +0000</pubDate>
         <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.34.0/Blockstack-for-macOS-v0.34.0.dmg" sparkle:shortVersionString="0.34.0" sparkle:version="109" length="37277827" type="application/octet-stream"/>
     </item>
+    <item>
+        <title>Blockstack v0.34.1</title>
+        <description>
+            <![CDATA[
+                <p>Features:</p>
+                <ul>
+                  <li>Restore your ID via QR code scan</li>
+                  <li>Improved onboarding experience</li>
+                </ul>
+            ]]>
+        </description>
+        <pubDate>Fri, 28 September 2018 13:00:00 +0000</pubDate>
+        <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.34.1/Blockstack-for-macOS-v0.34.1.dmg" sparkle:shortVersionString="0.34.1" sparkle:version="110" length="37277827" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
