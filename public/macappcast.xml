@@ -494,5 +494,20 @@
         <pubDate>Fri, 28 September 2018 13:00:00 +0000</pubDate>
         <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.34.1/Blockstack-for-macOS-v0.34.1.dmg" sparkle:shortVersionString="0.34.1" sparkle:version="110" length="37277827" type="application/octet-stream"/>
     </item>
+    <item>
+        <title>Blockstack v0.34.2</title>
+        <description>
+            <![CDATA[
+                <p>Bug fixes:</p>
+                <ul>
+                  <li>Fixed a sign-in issue that affects legacy Blockstack IDs</li>
+                  <li>Fixed profile social proof verification issues on the web-hosted browser</li>
+                  <li>Fixed a name registration UI bug</li>
+                </ul>
+            ]]>
+        </description>
+        <pubDate>Fri, 26 October 2018 12:00:00 +0000</pubDate>
+        <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.34.2/Blockstack-for-macOS-v0.34.2.dmg" sparkle:shortVersionString="0.34.2" sparkle:version="111" length="37277827" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
