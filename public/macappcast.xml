@@ -509,5 +509,22 @@
         <pubDate>Fri, 26 October 2018 12:00:00 +0000</pubDate>
         <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.34.2/Blockstack-for-macOS-v0.34.2.dmg" sparkle:shortVersionString="0.34.2" sparkle:version="111" length="37277827" type="application/octet-stream"/>
     </item>
+    <item>
+        <title>Blockstack v0.35.0</title>
+        <description>
+            <![CDATA[
+                <p>Bug fixes:</p>
+                <ul>
+                  <li>Fixed Bitcoin wallet balance not updating or showing 0</li>
+                </ul>
+                <p>Features:</p>
+                <ul>
+                  <li>Optional user selectable Gaia hubs (Developer opt-in only)</li>
+                </ul>
+            ]]>
+        </description>
+        <pubDate>Thu, 20 December 2018 12:00:00 +0000</pubDate>
+        <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.35.0/Blockstack-for-macOS-v0.35.0.dmg" sparkle:shortVersionString="0.35.0" sparkle:version="112" length="37277827" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
