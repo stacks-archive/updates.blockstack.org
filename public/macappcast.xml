@@ -543,5 +543,18 @@
         <pubDate>Thu, 20 December 2018 13:00:00 +0000</pubDate>
         <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.35.1/Blockstack-for-macOS-v0.35.1.dmg" sparkle:shortVersionString="0.35.1" sparkle:version="113" length="37277827" type="application/octet-stream"/>
     </item>
+    <item>
+        <title>Blockstack v0.35.2</title>
+        <description>
+            <![CDATA[
+                <p>Bug fixes:</p>
+                <ul>
+                  <li>Fixed a bug where usernames don't show up after updating the browser</li>
+                </ul>
+            ]]>
+        </description>
+        <pubDate>Wed, 2 January 2019 16:00:00 +0000</pubDate>
+        <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.35.2/Blockstack-for-macOS-v0.35.2.dmg" sparkle:shortVersionString="0.35.2" sparkle:version="114" length="37277827" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
