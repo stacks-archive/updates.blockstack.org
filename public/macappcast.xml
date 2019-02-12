@@ -569,5 +569,21 @@
         <pubDate>Tues, 8 January 2019 12:00:00 +0000</pubDate>
         <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.35.3/Blockstack-for-macOS-v0.35.3.dmg" sparkle:shortVersionString="0.35.3" sparkle:version="115" length="37277827" type="application/octet-stream"/>
     </item>
+    <item>
+        <title>Blockstack v0.35.4</title>
+        <description>
+            <![CDATA[
+                <p>Bug fixes and improvements:</p>
+                <ul>
+                  <li>Improved cross-browser support for the protocol handler</li>
+                  <li>Ability to reset the browser from the update screen if the password has been forgotten</li>
+                  <li>Fixed overwriting of stale profiles when logging into Blockstack apps on multiple devices</li>
+                  <li>Fixed the profile URL contained in the auth response</li>
+                </ul>
+            ]]>
+        </description>
+        <pubDate>Tues, 8 January 2019 12:00:00 +0000</pubDate>
+        <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.35.4/Blockstack-for-macOS-v0.35.4.dmg" sparkle:shortVersionString="0.35.3" sparkle:version="115" length="37277827" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
