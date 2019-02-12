@@ -582,8 +582,8 @@
                 </ul>
             ]]>
         </description>
-        <pubDate>Tues, 8 January 2019 12:00:00 +0000</pubDate>
-        <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.35.4/Blockstack-for-macOS-v0.35.4.dmg" sparkle:shortVersionString="0.35.3" sparkle:version="115" length="37277827" type="application/octet-stream"/>
+        <pubDate>Tue, 12 February 2019 12:00:00 +0000</pubDate>
+        <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.35.4/Blockstack-for-macOS-v0.35.4.dmg" sparkle:shortVersionString="0.35.4" sparkle:version="116" length="37277827" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
