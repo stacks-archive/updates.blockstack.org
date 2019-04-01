@@ -586,7 +586,7 @@
         <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.35.4/Blockstack-for-macOS-v0.35.4.dmg" sparkle:shortVersionString="0.35.4" sparkle:version="116" length="37277827" type="application/octet-stream"/>
     </item>
     <item>
-        <title>Blockstack v0.36.0</title>
+        <title>Blockstack v0.36.1</title>
         <description>
             <![CDATA[
                 <p>Features:</p>
@@ -601,11 +601,12 @@
                   <li>Logging in using a non-default web browser will no longer send you to the default browser</li>
                   <li>Fixed an issue with some magic recovery code showing as invalid</li>
                   <li>Email addresses are now persisted, apps will receive your email when requested</li>
+                  <li>Fixed issue migrating from an older version</li>
                 </ul>
             ]]>
         </description>
-        <pubDate>Tue, 26 March 2019 12:00:00 +0000</pubDate>
-        <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.36.0/Blockstack-for-macOS-v0.36.0.dmg" sparkle:shortVersionString="0.36.0" sparkle:version="117" length="37277827" type="application/octet-stream"/>
+        <pubDate>Mon, 1 April 2019 12:00:00 +0000</pubDate>
+        <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.36.1/Blockstack-for-macOS-v0.36.1.dmg" sparkle:shortVersionString="0.36.1" sparkle:version="118" length="37277827" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
