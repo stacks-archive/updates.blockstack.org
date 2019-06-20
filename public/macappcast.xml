@@ -608,5 +608,20 @@
         <pubDate>Mon, 1 April 2019 12:00:00 +0000</pubDate>
         <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.36.1/Blockstack-for-macOS-v0.36.1.dmg" sparkle:shortVersionString="0.36.1" sparkle:version="118" length="37277827" type="application/octet-stream"/>
     </item>
+    <item>
+        <title>Blockstack v0.36.3</title>
+        <description>
+            <![CDATA[
+                <p>Bug fixes and improvements:</p>
+                <ul>
+                  <li>Fixed a name price calculation bug</li>
+                  <li>Better error message when you get rate limited on a subdomain registration</li>
+                  <li>Changed UX of the 'deny' action when signing in to reduce confusion</li>
+                </ul>
+            ]]>
+        </description>
+        <pubDate>Thu, 20 June 2019 12:00:00 +0000</pubDate>
+        <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.36.1/Blockstack-for-macOS-v0.36.1.dmg" sparkle:shortVersionString="0.36.1" sparkle:version="118" length="37277827" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
