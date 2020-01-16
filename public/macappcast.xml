@@ -623,5 +623,25 @@
         <pubDate>Thu, 20 June 2019 12:00:00 +0000</pubDate>
         <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.36.3/Blockstack-for-macOS-v0.36.3.dmg" sparkle:shortVersionString="0.36.3" sparkle:version="119" length="37277827" type="application/octet-stream"/>
     </item>
+    <item>
+        <title>Blockstack v0.37.0</title>
+        <description>
+            <![CDATA[
+                <p>Bug fixes and improvements:</p>
+                <ul>
+                  <li>#1966: w3c crypto, greatly improving cryptographic performance. Updates blockstack.js to v21.0.0-alpha.4. Also includes lots of code health improvements</li>
+                  <li>#1965: Adding a notice to the wallet page</li>
+                  <li>#1973: Allowing collection scopes during auth</li>
+                  <li>#1971: Open app after installing on Windows</li>
+                  <li>#1951: Update MacOS native code to Swift 4</li>
+                  <li>#1942: Update blockstack.js to v19</li>
+                  <li>#1938: Allow renewing Blockstack IDs</li>
+                  <li>Removes all social proofs, except Twitter, and changes the URL in the suggested tweet</li>
+                </ul>
+            ]]>
+        </description>
+        <pubDate>Thurs, 16 January 2020 12:00:00 +0000</pubDate>
+        <enclosure url="https://github.com/blockstack/blockstack-browser/releases/download/v0.37.0/Blockstack-for-macOS-v0.37.0.dmg" sparkle:shortVersionString="0.35.3" sparkle:version="115" length="37277827" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
